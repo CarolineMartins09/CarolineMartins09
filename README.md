@@ -1,23 +1,25 @@
 ###  console.log("Hello, World!") 👋🏼
 ## Sejam Bem-Vind@s
+
  ---
  
  ## Sou Caroline Martins
+ <p>Atualmente estudante Full Stack (Ela/Dela)</p>
  
- <p>Atualmente estudante Full Stack</p>
- <>
+<p>Estou em uma importante transição de carreira, hoje posso dizer que encontrei a profissão dos sonhos.</p>
+<p>Sou uma pessoa muito resiliênte, flexivel, curiosa com constante vontade de aprender.</br> Tenho bastante facilidade em trabalhos com equipe tendo em vista boa comunicação e feedback</p>
+ 
+ <h4>Formação técnica-profissional: </h4>
+ - Administação e gestão de empresas;</br>
+ - Recursos Humanos.
 
-Here are some ideas to get you started:
+<h4>Experiência profissional </h4>
+- Administrativa;</br> 
+- Gestão de laboratório fármaco.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
 
 <div align="center">
   <a href="https://github.com/CarolineMartins09">
@@ -25,7 +27,7 @@ Here are some ideas to get you started:
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinemartins09&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 
-### Tecnologias estudadas:
+### 💻 Tecnologias estudadas: 
 <div style="display: inline_block"><br>
   <img align="center" alt="carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="carol-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -33,7 +35,7 @@ Here are some ideas to get you started:
   <img align="center" alt="carol-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
- ### Tecnologias a serem aprendidas:
+ ### 👩🏼‍💻 Tecnologias a serem aprendidas:
 <div style="display: inline_block"><br>
   <img alt="carol-Ts" width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img alt="carol-node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="4%"/>
@@ -42,7 +44,7 @@ Here are some ideas to get you started:
 </div>
 
 
-### Ferramentas usadas:
+### 🛠 Ferramentas usadas:
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
@@ -56,7 +58,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Como me encontrar?
+## 📩 Como me encontrar?
  
 <div>
   <a href="https://www.instagram.com/carol.martins02/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
