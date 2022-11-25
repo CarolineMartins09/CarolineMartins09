@@ -22,9 +22,9 @@
 
 
 <div align="center">
-  <a href="https://github.com/CarolineMartins09?tab=repositories">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinemartins09&theme=blue-green"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinemartins09&layout=compact&langs_count=7&theme=blue-green"/>
+  <a href="https://github.com/CarolineMartins09">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarolineMartins09&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolineMartins09&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ### 💻 Tecnologias estudadas: 
