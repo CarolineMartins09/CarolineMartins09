@@ -4,10 +4,9 @@
  ---
  
  ## Sou Caroline Martins
- <p>Atualmente estudante Full Stack (Ela/Dela)</p>
- 
-<p>Estou em uma importante transição de carreira, hoje posso dizer que encontrei a profissão dos sonhos.</p>
-<p>Sou uma pessoa muito resiliênte, flexivel, curiosa com constante vontade de aprender.</br> Tenho bastante facilidade em trabalhos com equipe tendo em vista boa comunicação e feedback</p>
+<p>Formada pelo bootcamp Labenu com mais de 1000 horas práticas, onde desenvolvi projetos em grupo e indivíduos utilizando tecnologias como JS , HTML , CSS , Typescript , MySQL entre outros. Entre esses projetos os principais são Labefood , LabeX. Atualmente cursando Sistemas de Informação.
+Possuo experiência em administração e gestão de pessoas, mas estou em transição de carreira para tecnologia uma área que sempre me despertou muito fascínio.
+Além disso, possuo habilidades de comunicação e trabalho em equipe desenvolvidas ao longo de minha trajetória profissional em outras áreas, o que me permite ter uma visão mais ampla e colaborativa dos projetos em que atuo. Sou uma profissional dedicada, organizada e que busca sempre aprimorar minhas habilidades técnicas e socioemocionais para agregar valor às equipes em que trabalho. Estou animada com as possibilidades que a área de tecnologia oferece e comprometida em me tornar uma profissional qualificada e capaz de enfrentar os desafios do mercado.</p>
  
  <h4>Formação técnica-profissional: </h4>
  - Administação e gestão de empresas;</br>
