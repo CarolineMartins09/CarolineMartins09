@@ -8,6 +8,7 @@
 Além disso possuo experiência em administração e gestão de pessoas, mas estou em transição de carreira para tecnologia uma áreaque sempre me despertou muito fascínio. Possuo habilidades de comunicação e trabalho em equipe desenvolvidas ao longo de minhatrajetória profissional em outras áreas, o que me permite ter uma visão mais ampla e colaborativa dos projetos em que atuo. Sou umaprofissional dedicada, organizada e que busca sempre aprimorar minhas habilidades técnicas e socioemocionais para agregar valoràs equipes em que trabalho. Estou animada com as possibilidades que a área de tecnologia oferece e comprometida em me tornaruma profissional qualificada e capaz de enfrentar os desafios do mercado.des que a área de tecnologia oferece e comprometida em me tornar uma profissional qualificada e capaz de enfrentar os desafios do mercado.</p>
  
  <h4>Formação técnica-profissional: </h4>
+ - Sistemas de Informação (em andamento);</br>
  - Administação e gestão de empresas;</br>
  - Recursos Humanos.
 
